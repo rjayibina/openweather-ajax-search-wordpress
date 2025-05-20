@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# TestWork4546
+# Open Weather API Ajax Search Widget
 
-**Test Work AbeloHost | Full-stack Developer (PHP / WordPress) Code Documentation**
+**Widget by Rjay Ibina | Full-stack Developer (PHP / WordPress) Code Documentation**
 
 ## Code Documentation
 
@@ -41,8 +40,6 @@ This project is built as a child theme for the Storefront theme. Below are the k
 
 ## App Demonstration
 
-You can view a demonstration of the application [here](https://www.loom.com/share/9807aa6dc1664c64bda83ae2725a89d7).
 =======
 # openweather-ajax-search-wordpress
 A custom WordPress widget that uses AJAX and the OpenWeather API to display real-time weather data based on user input. Built with PHP, JavaScript, and jQuery for dynamic and responsive weather search functionality.
->>>>>>> eaabce449eafa4cd0e87084f629c4610d36ec336
